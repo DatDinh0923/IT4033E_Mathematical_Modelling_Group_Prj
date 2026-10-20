@@ -1,0 +1,33 @@
+{
+    "sum_fg_t1": 160614,
+    "nnz_load_aggregated_t0": 16000876,
+    "maxseg": 6,
+    "r_conservation_err_t1": 0,
+    "arcs": 1000,
+    "r_err_graphsjl_t0": 0,
+    "time_mcf_s": 63.889370523,
+    "demands": 400,
+    "pairs_t0": 39800,
+    "mcf_lb_t0": 0.6131325581420184,
+    "sum_fg_t0": 160476,
+    "r_conservation_err_t0": 0,
+    "baseline_mlu_t01": 1,
+    "n": 200,
+    "pairs_t1": 39800,
+    "mcf_lb_t1": 0.7857889570552362,
+    "nnz_load_direct_t0": 63869448,
+    "mcf_lb_t01": 0.7857889570552362,
+    "instance": "setA-11",
+    "baseline_mlu_t0": 1,
+    "maxrss_gb": 1.5019760131835938,
+    "time_r_s": 0.398025327,
+    "tolerant_dijkstra": false,
+    "x_vars_step6": 15840400,
+    "zero_volume_t0": 2,
+    "down_links_t1": [
+        399
+    ],
+    "baseline_mlu_t1": 0.7857889570552147,
+    "budget_t1": 89,
+    "x_vars_step9": 31840000
+}

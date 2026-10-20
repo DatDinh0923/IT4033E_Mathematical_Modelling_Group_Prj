@@ -1,0 +1,2 @@
+Running as unit: orange-prep20.scope; invocation ID: 53a813abf8a04539b9dbfd61d3c1648d
+setA-20   n=400 m=2000 D=6000 |P|=159600 ΣFG=  716276  r-err=0.0e+00/0.0e+00 (Graphs.jl 0.0e+00)  base=1.0000/1.0000  LB=0.6482/0.6482  t_r=3.9s t_lb=839.4s rss=7.8GB

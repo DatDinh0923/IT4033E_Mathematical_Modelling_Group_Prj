@@ -1,0 +1,719 @@
+Running as unit: orange-1792472330.scope; invocation ID: 7dfdf2f41e4841369f0421b96289f2ae
+[10-20 11:59:08 +0.0h] test toy: OK
+[10-20 12:29:43 +0.51h] prepare: xong 20 instance
+[10-20 12:29:44 +0.51h] plan step6 setA-01: exact K=0  ~1.48e+04 biến x  ước lượng RAM 1.5 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-02: exact K=0  ~3.92e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-03: exact K=0  ~4.90e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-04: exact K=0  ~4.73e+05 biến x  ước lượng RAM 2.4 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-05: exact K=0  ~9.90e+05 biến x  ước lượng RAM 3.5 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-06: restricted K=30  ~4.80e+05 biến x  ước lượng RAM 2.5 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-07: restricted K=26  ~5.78e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-08: restricted K=30  ~1.92e+05 biến x  ước lượng RAM 1.9 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-09: restricted K=30  ~1.90e+05 biến x  ước lượng RAM 1.9 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-10: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-11: restricted K=30  ~3.82e+05 biến x  ước lượng RAM 2.3 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-12: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 2.3 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-13: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-14: restricted K=30  ~5.77e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-15: restricted K=30  ~5.66e+05 biến x  ước lượng RAM 2.6 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-16: restricted K=10  ~5.81e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-17: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-18: restricted K=16  ~5.72e+05 biến x  ước lượng RAM 2.6 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-19: restricted K=9  ~6.00e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step6 setA-20: restricted K=9  ~5.95e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-01: exact K=0  ~3.04e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-02: exact K=0  ~7.83e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-03: exact K=0  ~9.80e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-04: exact K=0  ~9.80e+05 biến x  ước lượng RAM 3.5 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-05: exact K=0  ~1.98e+06 biến x  ước lượng RAM 5.5 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-06: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-07: restricted K=18  ~5.78e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-08: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 2.3 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-09: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 2.3 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-10: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-11: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-12: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-13: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-14: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-15: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-16: restricted K=6  ~4.70e+05 biến x  ước lượng RAM 2.4 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-17: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-18: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-19: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] plan step9 setA-20: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 2.7 GB
+[10-20 12:29:44 +0.51h] còn 40 job; MAX_JOBS=12 MEM_BUDGET=12.5GB NSEEDS=1 cgroup=/sys/fs/cgroup/user.slice/user-0.slice/user@0.service/orange.slice/orange-1792472330.scope giới hạn=true
+[10-20 12:29:44 +0.51h] CHẠY  setA-20 step9 s1 [restricted K=6] ước lượng 2.7 GB (đang chạy 1, RAM dùng 0.2 GB)
+[10-20 12:29:44 +0.51h] CHẠY  setA-19 step9 s1 [restricted K=6] ước lượng 2.7 GB (đang chạy 2, RAM dùng 0.2 GB)
+[10-20 12:29:44 +0.51h] CHẠY  setA-18 step9 s1 [restricted K=11] ước lượng 2.7 GB (đang chạy 3, RAM dùng 0.2 GB)
+[10-20 12:29:44 +0.51h] CHẠY  setA-17 step9 s1 [restricted K=11] ước lượng 2.7 GB (đang chạy 4, RAM dùng 0.2 GB)
+[10-20 12:29:44 +0.51h] CHẠY  setA-03 step9 s1 [exact K=0] ước lượng 1.7 GB (đang chạy 5, RAM dùng 0.2 GB)
+[10-20 12:29:44 +0.51h] trạng thái: 5 đang chạy, 35 chờ, RAM ước lượng 12.4 GB, RAM dùng 0.2 GB
+[10-20 12:31:20 +0.54h] XONG  setA-18 step9 s1 [restricted] Optimal obj=1.00000 gap=0.0000 nodes=1 cpu=47s rss=2.6GB
+[10-20 12:31:40 +0.55h] XONG  setA-20 step9 s1 [restricted] Optimal obj=0.99131 gap=0.0000 nodes=1 cpu=62s rss=7.1GB
+[10-20 12:31:40 +0.55h] CHẠY  setA-16 step9 s1 [restricted K=6] ước lượng 2.4 GB (đang chạy 4, RAM dùng 7.4 GB)
+[10-20 12:31:40 +0.55h] CHẠY  setA-15 step9 s1 [restricted K=21] ước lượng 2.7 GB (đang chạy 5, RAM dùng 7.4 GB)
+[10-20 12:33:40 +0.58h] XONG  setA-15 step9 s1 [restricted] Optimal obj=0.89870 gap=0.0000 nodes=1 cpu=71s rss=2.6GB
+[10-20 12:33:40 +0.58h] CHẠY  setA-09 step9 s1 [restricted K=30] ước lượng 2.3 GB (đang chạy 5, RAM dùng 10.4 GB)
+[10-20 12:34:45 +0.6h] XONG  setA-19 step9 s1 [restricted] Optimal obj=0.73770 gap=0.0000 nodes=1 cpu=250s rss=5.2GB
+[10-20 12:34:45 +0.6h] CHẠY  setA-14 step9 s1 [restricted K=21] ước lượng 2.7 GB (đang chạy 5, RAM dùng 7.8 GB)
+[10-20 12:35:20 +0.61h] XONG  setA-09 step9 s1 [restricted] Optimal obj=0.84965 gap=0.0000 nodes=1 cpu=62s rss=2.6GB
+[10-20 12:35:20 +0.61h] CHẠY  setA-13 step9 s1 [restricted K=11] ước lượng 2.7 GB (đang chạy 5, RAM dùng 8.2 GB)
+[10-20 12:35:40 +0.61h] XONG  setA-16 step9 s1 [restricted] Optimal obj=0.88115 gap=0.0000 nodes=1 cpu=196s rss=3.9GB
+[10-20 12:35:40 +0.61h] CHẠY  setA-12 step9 s1 [restricted K=26] ước lượng 2.7 GB (đang chạy 5, RAM dùng 7.1 GB)
+[10-20 12:36:05 +0.62h] XONG  setA-17 step9 s1 [restricted] Optimal obj=0.42419 gap=0.0000 nodes=1 cpu=329s rss=5.4GB
+[10-20 12:36:05 +0.62h] CHẠY  setA-11 step9 s1 [restricted K=26] ước lượng 2.7 GB (đang chạy 5, RAM dùng 4.4 GB)
+[10-20 12:37:41 +0.65h] XONG  setA-12 step9 s1 [restricted] Optimal obj=1.00011 gap=0.0000 nodes=1 cpu=70s rss=2.6GB
+[10-20 12:37:41 +0.65h] CHẠY  setA-10 step9 s1 [restricted K=16] ước lượng 2.7 GB (đang chạy 5, RAM dùng 9.2 GB)
+[10-20 12:38:26 +0.66h] XONG  setA-11 step9 s1 [restricted] Optimal obj=0.78579 gap=0.0000 nodes=1 cpu=89s rss=3.5GB
+[10-20 12:38:26 +0.66h] CHẠY  setA-08 step9 s1 [restricted K=30] ước lượng 2.3 GB (đang chạy 5, RAM dùng 8.5 GB)
+[10-20 12:40:56 +0.7h] XONG  setA-14 step9 s1 [restricted] Optimal obj=0.53315 gap=0.0000 nodes=1 cpu=315s rss=5.4GB
+[10-20 12:40:56 +0.7h] CHẠY  setA-07 step9 s1 [restricted K=18] ước lượng 2.7 GB (đang chạy 5, RAM dùng 7.7 GB)
+[10-20 12:44:16 +0.76h] XONG  setA-13 step9 s1 [restricted] Optimal obj=0.64957 gap=0.0000 nodes=1 cpu=483s rss=5.7GB
+[10-20 12:44:16 +0.76h] CHẠY  setA-06 step9 s1 [restricted K=23] ước lượng 2.7 GB (đang chạy 5, RAM dùng 7.9 GB)
+[10-20 12:44:46 +0.77h] trạng thái: 5 đang chạy, 24 chờ, RAM ước lượng 11.9 GB, RAM dùng 8.4 GB
+[10-20 12:49:01 +0.84h] XONG  setA-10 step9 s1 [restricted] Optimal obj=0.42391 gap=0.0000 nodes=1 cpu=629s rss=6.2GB
+[10-20 12:49:01 +0.84h] CHẠY  setA-02 step9 s1 [exact K=0] ước lượng 1.7 GB (đang chạy 5, RAM dùng 7.3 GB)
+[10-20 12:49:01 +0.84h] CHẠY  setA-01 step9 s1 [exact K=0] ước lượng 1.6 GB (đang chạy 6, RAM dùng 7.3 GB)
+[10-20 12:49:37 +0.85h] XONG  setA-01 step9 s1 [exact] Optimal obj=0.92938 gap=0.0000 nodes=1 cpu=10s rss=0.8GB
+[10-20 12:49:37 +0.85h] CHẠY  setA-01 step6 s1 [exact K=0] ước lượng 1.5 GB (đang chạy 6, RAM dùng 8.0 GB)
+[10-20 12:50:07 +0.85h] XONG  setA-01 step6 s1 [exact] Optimal obj=0.92938 gap=0.0000 nodes=1 cpu=11s rss=0.6GB
+[10-20 12:59:47 +1.02h] trạng thái: 5 đang chạy, 21 chờ, RAM ước lượng 10.9 GB, RAM dùng 8.7 GB
+[10-20 13:14:48 +1.27h] trạng thái: 5 đang chạy, 21 chờ, RAM ước lượng 10.9 GB, RAM dùng 9.3 GB
+[10-20 13:29:50 +1.52h] trạng thái: 5 đang chạy, 21 chờ, RAM ước lượng 10.9 GB, RAM dùng 11.4 GB
+[10-20 13:30:10 +1.52h] XONG  setA-03 step9 s1 [exact] Not Optimal obj=1.00000 gap=1.0000 nodes=0 cpu=3593s rss=0.9GB
+
+[616460] signal 15: Terminated
+in expression starting at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:236
+unknown function (ip: 0x7b44ecc98d6f) at /usr/lib/x86_64-linux-gnu/libc.so.6
+pthread_cond_wait at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv_cond_wait at /workspace/srcdir/libuv/src/unix/thread.c:822
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:614
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+profile_printing_listener at ./Base.jl:335
+#start_profile_listener##0 at ./Base.jl:355
+jfptr_YY.start_profile_listenerYY.YY.0_16994.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+start_task at /cache/build/builder-amdci4-4/julialang/julia-ci/src/task.c:1287
+unknown function (ip: (nil)) at (unknown file)
+jfptr_print_40849.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+print_to_string at ./strings/io.jl:145
+string at ./strings/io.jl:186 [inlined]
+rss_gb at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:70
+#main##2 at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:185
+#argmax##0 at ./reduce.jl:965 [inlined]
+MappingRF at ./reduce.jl:98 [inlined]
+_foldl_impl at ./reduce.jl:60
+foldl_impl at ./reduce.jl:46 [inlined]
+mapfoldl_impl at ./reduce.jl:42 [inlined]
+#mapfoldl#271 at ./reduce.jl:173 [inlined]
+mapfoldl at ./reduce.jl:173 [inlined]
+argmax at ./reduce.jl:965 [inlined]
+main at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:185
+unknown function (ip: 0x7b44d1c4fd9f) at (unknown file)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+do_call at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:123
+eval_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:243
+eval_stmt_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:194 [inlined]
+eval_body at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:679
+jl_interpret_toplevel_thunk at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:884
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:742
+jl_eval_toplevel_stmts at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:585
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:683
+ijl_toplevel_eval at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:754
+ijl_toplevel_eval_in at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:799
+eval at ./boot.jl:489
+include_string at ./loading.jl:3045
+_include at ./loading.jl:3105
+include at ./Base.jl:309
+exec_options at ./client.jl:344
+_start at ./client.jl:577
+jfptr__start_60477.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+true_main at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:985
+jl_repl_entrypoint at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:1152
+main at /cache/build/builder-amdci4-4/julialang/julia-ci/cli/loader_exe.c:58
+unknown function (ip: 0x7b44ecc2a1c9) at /usr/lib/x86_64-linux-gnu/libc.so.6
+__libc_start_main at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+unknown function (ip: 0x4010b8) at /workspace/srcdir/glibc-2.17/csu/../sysdeps/x86_64/start.S
+unknown function (ip: (nil)) at (unknown file)
+Allocations: 6122057 (Pool: 6121989; Big: 68); GC: 8
+=== RESTART Tue Oct 20 01:53:52 PM +07 2026 ===
+Running as unit: orange-1792479232.scope; invocation ID: e073c3a24c1043319d3add3ed5e85614
+[10-20 13:54:11 +0.01h] test toy: OK
+[10-20 13:54:12 +0.01h] prepare: xong 20 instance
+[10-20 13:54:12 +0.01h] plan step6 setA-01: exact K=0  ~1.48e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-02: exact K=0  ~3.92e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-03: exact K=0  ~4.90e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-04: exact K=0  ~4.73e+05 biến x  ước lượng RAM 3.4 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-05: exact K=0  ~9.90e+05 biến x  ước lượng RAM 5.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-06: restricted K=30  ~4.80e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-07: restricted K=26  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-08: restricted K=30  ~1.92e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-09: restricted K=30  ~1.90e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-10: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-11: restricted K=30  ~3.82e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-12: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-13: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-14: restricted K=30  ~5.77e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-15: restricted K=30  ~5.66e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-16: restricted K=10  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-17: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-18: restricted K=16  ~5.72e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-19: restricted K=9  ~6.00e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step6 setA-20: restricted K=9  ~5.95e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-01: exact K=0  ~3.04e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-02: exact K=0  ~7.83e+04 biến x  ước lượng RAM 1.8 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-03: exact K=0  ~9.80e+04 biến x  ước lượng RAM 1.9 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-04: exact K=0  ~9.80e+05 biến x  ước lượng RAM 5.4 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-05: exact K=0  ~1.98e+06 biến x  ước lượng RAM 9.4 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-06: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-07: restricted K=18  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-08: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-09: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-10: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-11: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-12: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-13: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-14: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-15: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-16: restricted K=6  ~4.70e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-17: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-18: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-19: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] plan step9 setA-20: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 13:54:12 +0.01h] còn 28 job; MAX_JOBS=12 MEM_BUDGET=13.0GB NSEEDS=1 cgroup=/sys/fs/cgroup/user.slice/user-0.slice/user@0.service/orange.slice/orange-1792479232.scope giới hạn=true
+[10-20 13:54:12 +0.01h] CHẠY  setA-08 step9 s1 [restricted K=30] ước lượng 6.5 GB (đang chạy 1, RAM dùng 0.2 GB)
+[10-20 13:54:12 +0.01h] CHẠY  setA-07 step9 s1 [restricted K=18] ước lượng 6.5 GB (đang chạy 2, RAM dùng 0.2 GB)
+[10-20 13:54:12 +0.01h] trạng thái: 2 đang chạy, 26 chờ, RAM ước lượng 13.0 GB, RAM dùng 0.2 GB
+[10-20 14:09:14 +0.26h] trạng thái: 2 đang chạy, 26 chờ, RAM ước lượng 13.0 GB, RAM dùng 4.8 GB
+[10-20 14:24:15 +0.51h] trạng thái: 2 đang chạy, 26 chờ, RAM ước lượng 13.0 GB, RAM dùng 4.8 GB
+[10-20 14:38:01 +0.74h] RAM cao (14.1 GB đang dùng): kill setA-07 step9 s1 (rss 12.2 GB)
+[10-20 14:38:05 +0.74h] THẤT BẠI setA-07 step9 s1 (lần 1, exit=0)
+[10-20 14:38:05 +0.74h] CHẠY  setA-06 step9 s1 [restricted K=23] ước lượng 6.5 GB (đang chạy 2, RAM dùng 1.9 GB)
+
+[680838] signal 15: Terminated
+in expression starting at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:240
+unknown function (ip: 0x79975ea98d6f) at /usr/lib/x86_64-linux-gnu/libc.so.6
+pthread_cond_wait at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv_cond_wait at /workspace/srcdir/libuv/src/unix/thread.c:822
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:614
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+profile_printing_listener at ./Base.jl:335
+#start_profile_listener##0 at ./Base.jl:355
+jfptr_YY.start_profile_listenerYY.YY.0_16994.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+start_task at /cache/build/builder-amdci4-4/julialang/julia-ci/src/task.c:1287
+unknown function (ip: (nil)) at (unknown file)
+epoll_pwait at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv__io_poll at /workspace/srcdir/libuv/src/unix/linux.c:1404
+uv_run at /workspace/srcdir/libuv/src/unix/core.c:430
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:533
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+wait at ./asyncevent.jl:203 [inlined]
+sleep at ./asyncevent.jl:321 [inlined]
+main at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:233
+unknown function (ip: 0x799743a4584f) at (unknown file)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+do_call at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:123
+eval_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:243
+eval_stmt_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:194 [inlined]
+eval_body at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:679
+jl_interpret_toplevel_thunk at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:884
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:742
+jl_eval_toplevel_stmts at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:585
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:683
+ijl_toplevel_eval at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:754
+ijl_toplevel_eval_in at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:799
+eval at ./boot.jl:489
+include_string at ./loading.jl:3045
+_include at ./loading.jl:3105
+include at ./Base.jl:309
+exec_options at ./client.jl:344
+_start at ./client.jl:577
+jfptr__start_60477.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+true_main at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:985
+jl_repl_entrypoint at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:1152
+main at /cache/build/builder-amdci4-4/julialang/julia-ci/cli/loader_exe.c:58
+unknown function (ip: 0x79975ea2a1c9) at /usr/lib/x86_64-linux-gnu/libc.so.6
+__libc_start_main at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+unknown function (ip: 0x4010b8) at /workspace/srcdir/glibc-2.17/csu/../sysdeps/x86_64/start.S
+unknown function (ip: (nil)) at (unknown file)
+Allocations: 4914371 (Pool: 4914321; Big: 50); GC: 5
+=== RESTART 2 Tue Oct 20 02:38:59 PM +07 2026 ===
+Running as unit: orange-1792481939.scope; invocation ID: f6e7ad098ef34c79ba9ff02e6cba9325
+[10-20 14:39:18 +0.01h] test toy: OK
+[10-20 14:39:18 +0.01h] prepare: xong 20 instance
+[10-20 14:39:19 +0.01h] plan step6 setA-01: exact K=0  ~1.48e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-02: exact K=0  ~3.92e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-03: exact K=0  ~4.90e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-04: exact K=0  ~4.73e+05 biến x  ước lượng RAM 3.4 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-05: exact K=0  ~9.90e+05 biến x  ước lượng RAM 5.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-06: restricted K=30  ~4.80e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-07: restricted K=26  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-08: restricted K=30  ~1.92e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-09: restricted K=30  ~1.90e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-10: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-11: restricted K=30  ~3.82e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-12: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-13: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-14: restricted K=30  ~5.77e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-15: restricted K=30  ~5.66e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-16: restricted K=10  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-17: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-18: restricted K=16  ~5.72e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-19: restricted K=9  ~6.00e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step6 setA-20: restricted K=9  ~5.95e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-01: exact K=0  ~3.04e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-02: exact K=0  ~7.83e+04 biến x  ước lượng RAM 1.8 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-03: exact K=0  ~9.80e+04 biến x  ước lượng RAM 1.9 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-04: exact K=0  ~9.80e+05 biến x  ước lượng RAM 5.4 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-05: exact K=0  ~1.98e+06 biến x  ước lượng RAM 9.4 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-06: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-07: restricted K=18  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-08: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-09: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-10: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-11: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-12: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-13: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-14: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-15: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-16: restricted K=6  ~4.70e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-17: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-18: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-19: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] plan step9 setA-20: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:39:19 +0.01h] ĐANG CHẠY từ trước, bỏ qua: setA-08 step9 s1
+[10-20 14:39:19 +0.01h] còn 27 job; MAX_JOBS=12 MEM_BUDGET=13.0GB NSEEDS=1 cgroup đo RAM=/sys/fs/cgroup/user.slice/user-0.slice/user@0.service/orange.slice giới hạn=true
+[10-20 14:39:19 +0.01h] CHẠY  setA-07 step9 s1 [restricted K=18] ước lượng 6.5 GB (đang chạy 1, RAM dùng 1.9 GB)
+[10-20 14:39:19 +0.01h] CHẠY  setA-06 step9 s1 [restricted K=23] ước lượng 6.5 GB (đang chạy 2, RAM dùng 1.9 GB)
+[10-20 14:39:19 +0.01h] trạng thái: 2 đang chạy, 25 chờ, RAM ước lượng 13.0 GB, RAM dùng 1.9 GB
+
+[704441] signal 15: Terminated
+in expression starting at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:262
+unknown function (ip: 0x723145098d6f) at /usr/lib/x86_64-linux-gnu/libc.so.6
+pthread_cond_wait at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv_cond_wait at /workspace/srcdir/libuv/src/unix/thread.c:822
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:614
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+profile_printing_listener at ./Base.jl:335
+#start_profile_listener##0 at ./Base.jl:355
+jfptr_YY.start_profile_listenerYY.YY.0_16994.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+start_task at /cache/build/builder-amdci4-4/julialang/julia-ci/src/task.c:1287
+unknown function (ip: (nil)) at (unknown file)
+epoll_pwait at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv__io_poll at /workspace/srcdir/libuv/src/unix/linux.c:1404
+uv_run at /workspace/srcdir/libuv/src/unix/core.c:430
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:533
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+wait at ./asyncevent.jl:203 [inlined]
+sleep at ./asyncevent.jl:321 [inlined]
+main at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:255
+unknown function (ip: 0x72312a051f7f) at (unknown file)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+do_call at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:123
+eval_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:243
+eval_stmt_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:194 [inlined]
+eval_body at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:679
+jl_interpret_toplevel_thunk at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:884
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:742
+jl_eval_toplevel_stmts at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:585
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:683
+ijl_toplevel_eval at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:754
+ijl_toplevel_eval_in at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:799
+eval at ./boot.jl:489
+include_string at ./loading.jl:3045
+_include at ./loading.jl:3105
+include at ./Base.jl:309
+exec_options at ./client.jl:344
+_start at ./client.jl:577
+jfptr__start_60477.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+true_main at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:985
+jl_repl_entrypoint at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:1152
+main at /cache/build/builder-amdci4-4/julialang/julia-ci/cli/loader_exe.c:58
+unknown function (ip: 0x72314502a1c9) at /usr/lib/x86_64-linux-gnu/libc.so.6
+__libc_start_main at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+unknown function (ip: 0x4010b8) at /workspace/srcdir/glibc-2.17/csu/../sysdeps/x86_64/start.S
+unknown function (ip: (nil)) at (unknown file)
+Allocations: 5002212 (Pool: 5002162; Big: 50); GC: 5
+=== RESTART 3 Tue Oct 20 02:39:59 PM +07 2026 ===
+Running as unit: orange-1792481999.scope; invocation ID: b303ccf3c8724a4292796ab1c48b17ff
+[10-20 14:40:18 +0.01h] test toy: OK
+[10-20 14:40:19 +0.01h] prepare: xong 20 instance
+[10-20 14:40:19 +0.01h] plan step6 setA-01: exact K=0  ~1.48e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-02: exact K=0  ~3.92e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-03: exact K=0  ~4.90e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-04: exact K=0  ~4.73e+05 biến x  ước lượng RAM 3.4 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-05: exact K=0  ~9.90e+05 biến x  ước lượng RAM 5.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-06: restricted K=30  ~4.80e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-07: restricted K=26  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-08: restricted K=30  ~1.92e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-09: restricted K=30  ~1.90e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-10: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-11: restricted K=30  ~3.82e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-12: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-13: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-14: restricted K=30  ~5.77e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-15: restricted K=30  ~5.66e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-16: restricted K=10  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-17: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-18: restricted K=16  ~5.72e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-19: restricted K=9  ~6.00e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step6 setA-20: restricted K=9  ~5.95e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-01: exact K=0  ~3.04e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-02: exact K=0  ~7.83e+04 biến x  ước lượng RAM 1.8 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-03: exact K=0  ~9.80e+04 biến x  ước lượng RAM 1.9 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-04: exact K=0  ~9.80e+05 biến x  ước lượng RAM 5.4 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-05: exact K=0  ~1.98e+06 biến x  ước lượng RAM 9.4 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-06: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-07: restricted K=18  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-08: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-09: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-10: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-11: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-12: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-13: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-14: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-15: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-16: restricted K=6  ~4.70e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-17: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-18: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-19: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] plan step9 setA-20: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 14:40:19 +0.01h] đã từng bị kill vì RAM -> setA-07 step9: restricted K=11
+[10-20 14:40:20 +0.01h] ĐANG CHẠY từ trước, bỏ qua: setA-08 step9 s1
+[10-20 14:40:20 +0.01h] ĐANG CHẠY từ trước, bỏ qua: setA-06 step9 s1
+[10-20 14:40:20 +0.01h] còn 26 job; MAX_JOBS=12 MEM_BUDGET=13.0GB NSEEDS=1 cgroup đo RAM=/sys/fs/cgroup/user.slice/user-0.slice/user@0.service/orange.slice giới hạn=true
+[10-20 14:40:20 +0.01h] CHẠY  setA-07 step9 s1 [restricted K=11] ước lượng 6.5 GB (đang chạy 1, RAM dùng 2.5 GB)
+[10-20 14:40:20 +0.01h] CHẠY  setA-04 step9 s1 [exact K=0] ước lượng 5.4 GB (đang chạy 2, RAM dùng 2.5 GB)
+[10-20 14:40:20 +0.01h] trạng thái: 2 đang chạy, 24 chờ, RAM ước lượng 11.9 GB, RAM dùng 2.5 GB
+[10-20 14:42:58 +0.05h] XONG  setA-07 step9 s1 [restricted] Optimal obj=0.90799 gap=0.0000 nodes=1 cpu=127s rss=2.5GB
+[10-20 14:42:58 +0.05h] CHẠY  setA-03 step9 s1 [exact K=0] ước lượng 1.9 GB (đang chạy 2, RAM dùng 4.8 GB)
+[10-20 14:42:58 +0.05h] CHẠY  setA-02 step9 s1 [exact K=0] ước lượng 1.8 GB (đang chạy 3, RAM dùng 4.8 GB)
+[10-20 14:42:58 +0.05h] CHẠY  setA-01 step9 s1 [exact K=0] ước lượng 1.6 GB (đang chạy 4, RAM dùng 4.8 GB)
+[10-20 14:42:58 +0.05h] CHẠY  setA-03 step6 s1 [exact K=0] ước lượng 1.7 GB (đang chạy 5, RAM dùng 4.8 GB)
+[10-20 14:43:34 +0.06h] XONG  setA-01 step9 s1 [exact] Optimal obj=0.92938 gap=0.0000 nodes=1 cpu=9s rss=0.7GB
+[10-20 14:43:34 +0.06h] CHẠY  setA-02 step6 s1 [exact K=0] ước lượng 1.7 GB (đang chạy 5, RAM dùng 6.6 GB)
+[10-20 14:44:03 +0.07h] XONG  setA-02 step6 s1 [exact] Optimal obj=0.54858 gap=0.0000 nodes=1 cpu=3s rss=0.7GB
+[10-20 14:44:03 +0.07h] CHẠY  setA-01 step6 s1 [exact K=0] ước lượng 1.6 GB (đang chạy 5, RAM dùng 6.8 GB)
+[10-20 14:45:15 +0.09h] XONG  setA-01 step6 s1 [exact] Optimal obj=0.92938 gap=0.0000 nodes=1 cpu=1s rss=0.7GB
+[10-20 14:50:08 +0.17h] XONG  setA-03 step6 s1 [exact] Optimal obj=0.94354 gap=0.0000 nodes=1 cpu=405s rss=0.9GB
+[10-20 14:50:08 +0.17h] CHẠY  setA-18 step6 s1 [restricted K=16] ước lượng 2.9 GB (đang chạy 4, RAM dùng 8.6 GB)
+[10-20 14:51:16 +0.19h] XONG  setA-18 step6 s1 [restricted] Optimal obj=0.63337 gap=0.0000 nodes=1 cpu=25s rss=1.7GB
+[10-20 14:51:16 +0.19h] CHẠY  setA-15 step6 s1 [restricted K=30] ước lượng 2.8 GB (đang chạy 4, RAM dùng 8.6 GB)
+[10-20 14:52:32 +0.21h] XONG  setA-15 step6 s1 [restricted] Optimal obj=0.82521 gap=0.0000 nodes=1 cpu=33s rss=2.1GB
+[10-20 14:52:32 +0.21h] CHẠY  setA-12 step6 s1 [restricted K=30] ước lượng 2.8 GB (đang chạy 4, RAM dùng 8.6 GB)
+[10-20 14:53:24 +0.22h] XONG  setA-12 step6 s1 [restricted] Optimal obj=1.00011 gap=0.0000 nodes=1 cpu=17s rss=1.3GB
+[10-20 14:53:24 +0.22h] CHẠY  setA-09 step6 s1 [restricted K=30] ước lượng 2.9 GB (đang chạy 4, RAM dùng 8.6 GB)
+[10-20 14:54:18 +0.24h] XONG  setA-09 step6 s1 [restricted] Optimal obj=0.50538 gap=0.0000 nodes=1 cpu=28s rss=1.2GB
+[10-20 14:54:18 +0.24h] CHẠY  setA-07 step6 s1 [restricted K=26] ước lượng 2.8 GB (đang chạy 4, RAM dùng 8.6 GB)
+[10-20 14:55:20 +0.26h] trạng thái: 4 đang chạy, 13 chờ, RAM ước lượng 11.9 GB, RAM dùng 8.3 GB
+[10-20 15:10:22 +0.51h] trạng thái: 4 đang chạy, 13 chờ, RAM ước lượng 11.9 GB, RAM dùng 8.6 GB
+[10-20 15:12:56 +0.55h] RAM cao (13.8 GB đang dùng): kill setA-04 step9 s1 (rss 9.0 GB)
+[10-20 15:13:00 +0.55h] THẤT BẠI setA-04 step9 s1 (lần 1, exit=0)
+[10-20 15:13:00 +0.55h]   -> chạy lại với mô hình nhỏ hơn: restricted K=20 (trước: K=0)
+[10-20 15:13:00 +0.55h] CHẠY  setA-19 step6 s1 [restricted K=9] ước lượng 5.7 GB (đang chạy 4, RAM dùng 4.8 GB)
+[10-20 15:16:12 +0.6h] XONG  setA-19 step6 s1 [restricted] Optimal obj=0.40843 gap=0.0000 nodes=1 cpu=146s rss=3.1GB
+[10-20 15:16:12 +0.6h] CHẠY  setA-17 step6 s1 [restricted K=16] ước lượng 6.0 GB (đang chạy 4, RAM dùng 4.8 GB)
+[10-20 15:17:21 +0.62h] XONG  setA-17 step6 s1 [restricted] Optimal obj=0.42419 gap=0.0000 nodes=1 cpu=24s rss=1.7GB
+[10-20 15:17:21 +0.62h] CHẠY  setA-16 step6 s1 [restricted K=10] ước lượng 4.3 GB (đang chạy 4, RAM dùng 4.8 GB)
+[10-20 15:20:35 +0.68h] XONG  setA-16 step6 s1 [restricted] Optimal obj=0.65984 gap=0.0000 nodes=1 cpu=152s rss=3.1GB
+[10-20 15:20:35 +0.68h] CHẠY  setA-14 step6 s1 [restricted K=30] ước lượng 5.9 GB (đang chạy 4, RAM dùng 5.8 GB)
+[10-20 15:25:03 +0.75h] XONG  setA-07 step6 s1 [restricted] Not Optimal obj=0.90799 gap=1.0000 nodes=0 cpu=1799s rss=1.6GB
+[10-20 15:25:24 +0.76h] trạng thái: 3 đang chạy, 10 chờ, RAM ước lượng 9.6 GB, RAM dùng 7.2 GB
+[10-20 15:40:19 +1.01h] XONG  setA-14 step6 s1 [restricted] Optimal obj=0.43421 gap=0.0000 nodes=455 cpu=1139s rss=3.1GB
+[10-20 15:40:19 +1.01h] CHẠY  setA-20 step6 s1 [restricted K=9] ước lượng 7.8 GB (đang chạy 3, RAM dùng 4.3 GB)
+[10-20 15:40:25 +1.01h] trạng thái: 3 đang chạy, 9 chờ, RAM ước lượng 11.5 GB, RAM dùng 4.8 GB
+[10-20 15:41:55 +1.03h] XONG  setA-20 step6 s1 [restricted] Optimal obj=0.99131 gap=0.0000 nodes=1 cpu=51s rss=2.4GB
+[10-20 15:41:55 +1.03h] CHẠY  setA-13 step6 s1 [restricted K=16] ước lượng 6.2 GB (đang chạy 3, RAM dùng 4.8 GB)
+[10-20 15:43:27 +1.06h] XONG  setA-02 step9 s1 [exact] Not Optimal obj=0.90307 gap=0.3087 nodes=0 cpu=3595s rss=2.3GB
+[10-20 15:43:27 +1.06h] CHẠY  setA-11 step6 s1 [restricted K=30] ước lượng 3.9 GB (đang chạy 3, RAM dùng 4.2 GB)
+[10-20 15:43:33 +1.06h] XONG  setA-03 step9 s1 [exact] Not Optimal obj=0.94354 gap=0.3284 nodes=0 cpu=3597s rss=1.9GB
+[10-20 15:46:24 +1.11h] XONG  setA-11 step6 s1 [restricted] Optimal obj=0.64460 gap=0.0000 nodes=146 cpu=142s rss=2.5GB
+[10-20 15:46:24 +1.11h] CHẠY  setA-08 step6 s1 [restricted K=30] ước lượng 6.5 GB (đang chạy 2, RAM dùng 2.3 GB)
+[10-20 15:55:27 +1.26h] trạng thái: 2 đang chạy, 6 chờ, RAM ước lượng 12.7 GB, RAM dùng 3.1 GB
+[10-20 16:10:28 +1.51h] trạng thái: 2 đang chạy, 6 chờ, RAM ước lượng 12.7 GB, RAM dùng 3.1 GB
+[10-20 16:12:40 +1.54h] XONG  setA-13 step6 s1 [restricted] Not Optimal obj=1.00000 gap=1.0000 nodes=0 cpu=1800s rss=1.6GB
+[10-20 16:12:40 +1.54h] CHẠY  setA-06 step6 s1 [restricted K=30] ước lượng 6.5 GB (đang chạy 2, RAM dùng 1.0 GB)
+[10-20 16:16:49 +1.61h] XONG  setA-08 step6 s1 [restricted] Not Optimal obj=1.00000 gap=0.9902 nodes=0 cpu=1799s rss=1.0GB
+[10-20 16:16:49 +1.61h] CHẠY  setA-05 step6 s1 [exact K=0] ước lượng 5.5 GB (đang chạy 2, RAM dùng 1.6 GB)
+[10-20 16:25:30 +1.76h] trạng thái: 2 đang chạy, 4 chờ, RAM ước lượng 12.0 GB, RAM dùng 4.8 GB
+[10-20 16:40:31 +2.01h] trạng thái: 2 đang chạy, 4 chờ, RAM ước lượng 12.0 GB, RAM dùng 6.1 GB
+[10-20 16:43:20 +2.06h] XONG  setA-06 step6 s1 [restricted] Not Optimal obj=1.00000 gap=1.0000 nodes=0 cpu=1800s rss=1.4GB
+[10-20 16:43:20 +2.06h] CHẠY  setA-04 step6 s1 [exact K=0] ước lượng 3.4 GB (đang chạy 2, RAM dùng 7.2 GB)
+[10-20 16:55:33 +2.26h] trạng thái: 2 đang chạy, 3 chờ, RAM ước lượng 8.9 GB, RAM dùng 6.3 GB
+[10-20 17:08:50 +2.48h] XONG  setA-05 step6 s1 [exact] Not Optimal obj=0.13244 gap=0.1277 nodes=0 cpu=3050s rss=4.5GB
+[10-20 17:08:50 +2.48h] CHẠY  setA-05 step9 s1 [exact K=0] ước lượng 9.4 GB (đang chạy 2, RAM dùng 2.3 GB)
+[10-20 17:10:34 +2.51h] trạng thái: 2 đang chạy, 2 chờ, RAM ước lượng 12.8 GB, RAM dùng 3.6 GB
+[10-20 17:17:03 +2.62h] XONG  setA-04 step6 s1 [exact] Not Optimal obj=0.69182 gap=0.3364 nodes=0 cpu=1799s rss=2.2GB
+[10-20 17:25:36 +2.76h] trạng thái: 1 đang chạy, 2 chờ, RAM ước lượng 9.4 GB, RAM dùng 4.1 GB
+[10-20 17:40:37 +3.01h] trạng thái: 1 đang chạy, 2 chờ, RAM ước lượng 9.4 GB, RAM dùng 7.6 GB
+
+[705408] signal 15: Terminated
+in expression starting at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:274
+unknown function (ip: 0x7e23c2098d6f) at /usr/lib/x86_64-linux-gnu/libc.so.6
+pthread_cond_wait at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv_cond_wait at /workspace/srcdir/libuv/src/unix/thread.c:822
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:614
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+profile_printing_listener at ./Base.jl:335
+#start_profile_listener##0 at ./Base.jl:355
+jfptr_YY.start_profile_listenerYY.YY.0_16994.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+start_task at /cache/build/builder-amdci4-4/julialang/julia-ci/src/task.c:1287
+unknown function (ip: (nil)) at (unknown file)
+epoll_pwait at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv__io_poll at /workspace/srcdir/libuv/src/unix/linux.c:1404
+uv_run at /workspace/srcdir/libuv/src/unix/core.c:430
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:533
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+wait at ./asyncevent.jl:203 [inlined]
+sleep at ./asyncevent.jl:321 [inlined]
+main at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:267
+unknown function (ip: 0x7e23a7046f7f) at (unknown file)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+do_call at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:123
+eval_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:243
+eval_stmt_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:194 [inlined]
+eval_body at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:679
+jl_interpret_toplevel_thunk at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:884
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:742
+jl_eval_toplevel_stmts at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:585
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:683
+ijl_toplevel_eval at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:754
+ijl_toplevel_eval_in at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:799
+eval at ./boot.jl:489
+include_string at ./loading.jl:3045
+_include at ./loading.jl:3105
+include at ./Base.jl:309
+exec_options at ./client.jl:344
+_start at ./client.jl:577
+jfptr__start_60477.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+true_main at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:985
+jl_repl_entrypoint at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:1152
+main at /cache/build/builder-amdci4-4/julialang/julia-ci/cli/loader_exe.c:58
+unknown function (ip: 0x7e23c202a1c9) at /usr/lib/x86_64-linux-gnu/libc.so.6
+__libc_start_main at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+unknown function (ip: 0x4010b8) at /workspace/srcdir/glibc-2.17/csu/../sysdeps/x86_64/start.S
+unknown function (ip: (nil)) at (unknown file)
+Allocations: 6319011 (Pool: 6318942; Big: 69); GC: 6
+=== RESTART 4 (IPM cho mọi mô hình) Tue Oct 20 05:41:57 PM +07 2026 ===
+Running as unit: orange-1792492917.scope; invocation ID: f1be2a62fb1e4d7892393f7b3f26d4d1
+[10-20 17:42:15 +0.0h] test toy: OK
+[10-20 17:42:16 +0.0h] prepare: xong 20 instance
+[10-20 17:42:16 +0.01h] plan step6 setA-01: exact K=0  ~1.48e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-02: exact K=0  ~3.92e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-03: exact K=0  ~4.90e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-04: exact K=0  ~4.73e+05 biến x  ước lượng RAM 3.4 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-05: exact K=0  ~9.90e+05 biến x  ước lượng RAM 5.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-06: restricted K=30  ~4.80e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-07: restricted K=26  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-08: restricted K=30  ~1.92e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-09: restricted K=30  ~1.90e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-10: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-11: restricted K=30  ~3.82e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-12: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-13: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-14: restricted K=30  ~5.77e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-15: restricted K=30  ~5.66e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-16: restricted K=10  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-17: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-18: restricted K=16  ~5.72e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-19: restricted K=9  ~6.00e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step6 setA-20: restricted K=9  ~5.95e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-01: exact K=0  ~3.04e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-02: exact K=0  ~7.83e+04 biến x  ước lượng RAM 1.8 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-03: exact K=0  ~9.80e+04 biến x  ước lượng RAM 1.9 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-04: exact K=0  ~9.80e+05 biến x  ước lượng RAM 5.4 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-05: exact K=0  ~1.98e+06 biến x  ước lượng RAM 9.4 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-06: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-07: restricted K=18  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-08: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-09: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-10: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-11: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-12: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-13: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-14: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-15: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-16: restricted K=6  ~4.70e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-17: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-18: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-19: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] plan step9 setA-20: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 17:42:16 +0.01h] đã từng bị kill vì RAM -> setA-07 step9: restricted K=11
+[10-20 17:42:16 +0.01h] đã từng bị kill vì RAM -> setA-04 step9: restricted K=20
+[10-20 17:42:16 +0.01h] ĐANG CHẠY từ trước, bỏ qua: setA-05 step9 s1
+[10-20 17:42:16 +0.01h] còn 31 job; MAX_JOBS=12 MEM_BUDGET=13.0GB NSEEDS=1 cgroup đo RAM=/sys/fs/cgroup/user.slice/user-0.slice/user@0.service/orange.slice giới hạn=true
+[10-20 17:42:16 +0.01h] trạng thái: 0 đang chạy, 31 chờ, RAM ước lượng 0.0 GB, RAM dùng 7.6 GB
+[10-20 17:57:17 +0.26h] trạng thái: 0 đang chạy, 31 chờ, RAM ước lượng 0.0 GB, RAM dùng 7.9 GB
+[10-20 18:12:18 +0.51h] trạng thái: 0 đang chạy, 31 chờ, RAM ước lượng 0.0 GB, RAM dùng 7.9 GB
+[10-20 18:16:49 +0.58h] CHẠY  setA-04 step9 s1 [restricted K=20] ước lượng 5.4 GB (đang chạy 1, RAM dùng 6.0 GB)
+[10-20 18:17:21 +0.59h] CHẠY  setA-20 step9 s1 [restricted K=6] ước lượng 6.5 GB (đang chạy 2, RAM dùng 5.8 GB)
+[10-20 18:27:18 +0.76h] trạng thái: 2 đang chạy, 29 chờ, RAM ước lượng 11.9 GB, RAM dùng 8.5 GB
+[10-20 18:42:20 +1.01h] trạng thái: 2 đang chạy, 29 chờ, RAM ước lượng 11.9 GB, RAM dùng 8.8 GB
+
+[790030] signal 15: Terminated
+in expression starting at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:274
+unknown function (ip: 0x7ff841c98d6f) at /usr/lib/x86_64-linux-gnu/libc.so.6
+pthread_cond_wait at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv_cond_wait at /workspace/srcdir/libuv/src/unix/thread.c:822
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:614
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+profile_printing_listener at ./Base.jl:335
+#start_profile_listener##0 at ./Base.jl:355
+jfptr_YY.start_profile_listenerYY.YY.0_16994.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+start_task at /cache/build/builder-amdci4-4/julialang/julia-ci/src/task.c:1287
+unknown function (ip: (nil)) at (unknown file)
+epoll_pwait at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv__io_poll at /workspace/srcdir/libuv/src/unix/linux.c:1404
+uv_run at /workspace/srcdir/libuv/src/unix/core.c:430
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:533
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+wait at ./asyncevent.jl:203 [inlined]
+sleep at ./asyncevent.jl:321 [inlined]
+main at /mnt/data/hung/SOICT_mathematical_modelling/orange/run_all.jl:267
+unknown function (ip: 0x7ff826b1784f) at (unknown file)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+do_call at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:123
+eval_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:243
+eval_stmt_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:194 [inlined]
+eval_body at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:679
+jl_interpret_toplevel_thunk at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:884
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:742
+jl_eval_toplevel_stmts at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:585
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:683
+ijl_toplevel_eval at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:754
+ijl_toplevel_eval_in at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:799
+eval at ./boot.jl:489
+include_string at ./loading.jl:3045
+_include at ./loading.jl:3105
+include at ./Base.jl:309
+exec_options at ./client.jl:344
+_start at ./client.jl:577
+jfptr__start_60477.1 at /root/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+true_main at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:985
+jl_repl_entrypoint at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:1152
+main at /cache/build/builder-amdci4-4/julialang/julia-ci/cli/loader_exe.c:58
+unknown function (ip: 0x7ff841c2a1c9) at /usr/lib/x86_64-linux-gnu/libc.so.6
+__libc_start_main at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+unknown function (ip: 0x4010b8) at /workspace/srcdir/glibc-2.17/csu/../sysdeps/x86_64/start.S
+unknown function (ip: (nil)) at (unknown file)
+Allocations: 6448194 (Pool: 6448136; Big: 58); GC: 7
+=== RESTART 5 (rút gọn: simplex, cùng K cho step 6 & 9) Tue Oct 20 06:44:30 PM +07 2026 ===
+Running as unit: orange-1792496670.scope; invocation ID: cd215996ad0642f388b6d67c9ae75228
+[10-20 18:44:48 +0.0h] test toy: OK
+[10-20 18:44:48 +0.0h] prepare: xong 20 instance
+[10-20 18:44:49 +0.0h] plan step6 setA-01: exact K=0  ~1.48e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-02: exact K=0  ~3.92e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-03: exact K=0  ~4.90e+04 biến x  ước lượng RAM 1.7 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-04: exact K=0  ~4.73e+05 biến x  ước lượng RAM 3.4 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-05: exact K=0  ~9.90e+05 biến x  ước lượng RAM 5.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-06: restricted K=23  ~2.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-07: restricted K=18  ~2.89e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-08: restricted K=30  ~1.92e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-09: restricted K=30  ~1.92e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-10: restricted K=16  ~2.89e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-11: restricted K=26  ~2.92e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-12: restricted K=26  ~2.92e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-13: restricted K=11  ~2.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-14: restricted K=21  ~2.90e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-15: restricted K=21  ~2.90e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-16: restricted K=6  ~2.35e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-17: restricted K=11  ~2.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-18: restricted K=11  ~2.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-19: restricted K=6  ~2.94e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step6 setA-20: restricted K=6  ~2.94e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-01: exact K=0  ~3.04e+04 biến x  ước lượng RAM 1.6 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-02: exact K=0  ~7.83e+04 biến x  ước lượng RAM 1.8 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-03: exact K=0  ~9.80e+04 biến x  ước lượng RAM 1.9 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-04: exact K=0  ~9.80e+05 biến x  ước lượng RAM 5.4 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-05: exact K=0  ~1.98e+06 biến x  ước lượng RAM 9.4 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-06: restricted K=23  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-07: restricted K=18  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-08: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-09: restricted K=30  ~3.84e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-10: restricted K=16  ~5.78e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-11: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-12: restricted K=26  ~5.83e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-13: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-14: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-15: restricted K=21  ~5.81e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-16: restricted K=6  ~4.70e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-17: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-18: restricted K=11  ~5.76e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-19: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] plan step9 setA-20: restricted K=6  ~5.88e+05 biến x  ước lượng RAM 6.5 GB
+[10-20 18:44:49 +0.0h] đã từng bị kill vì RAM -> setA-04 step9: restricted K=20
+[10-20 18:44:49 +0.0h] đã từng bị kill vì RAM -> setA-07 step6: restricted K=11
+[10-20 18:44:49 +0.0h] còn 15 job; MAX_JOBS=12 MEM_BUDGET=13.0GB NSEEDS=1 cgroup đo RAM=/sys/fs/cgroup/user.slice/user-0.slice/user@0.service/orange.slice giới hạn=true
+[10-20 18:44:49 +0.0h] CHẠY  setA-06 step9 s1 [restricted K=23] ước lượng 6.5 GB (đang chạy 1, RAM dùng 0.2 GB)
+[10-20 18:44:49 +0.0h] CHẠY  setA-04 step9 s1 [restricted K=20] ước lượng 5.4 GB (đang chạy 2, RAM dùng 0.2 GB)
+[10-20 18:44:49 +0.0h] trạng thái: 2 đang chạy, 13 chờ, RAM ước lượng 11.9 GB, RAM dùng 0.2 GB
+[10-20 18:46:06 +0.03h] XONG  setA-04 step9 s1 [restricted] Optimal obj=0.74214 gap=0.0000 nodes=1 cpu=50s rss=1.6GB
+[10-20 18:46:06 +0.03h] CHẠY  setA-19 step6 s1 [restricted K=6] ước lượng 5.7 GB (đang chạy 2, RAM dùng 1.9 GB)
+[10-20 18:47:02 +0.04h] XONG  setA-19 step6 s1 [restricted] Optimal obj=0.73770 gap=0.0000 nodes=1 cpu=26s rss=1.5GB
+[10-20 18:47:02 +0.04h] CHẠY  setA-18 step6 s1 [restricted K=11] ước lượng 2.9 GB (đang chạy 2, RAM dùng 2.6 GB)
+[10-20 18:47:02 +0.04h] CHẠY  setA-15 step6 s1 [restricted K=21] ước lượng 2.8 GB (đang chạy 3, RAM dùng 2.6 GB)
+[10-20 18:47:44 +0.05h] XONG  setA-18 step6 s1 [restricted] Optimal obj=0.63337 gap=0.0000 nodes=1 cpu=10s rss=1.1GB
+[10-20 18:47:44 +0.05h] XONG  setA-15 step6 s1 [restricted] Optimal obj=0.82521 gap=0.0000 nodes=1 cpu=11s rss=1.1GB
+[10-20 18:47:44 +0.05h] CHẠY  setA-17 step6 s1 [restricted K=11] ước lượng 6.0 GB (đang chạy 2, RAM dùng 2.6 GB)
+[10-20 18:48:50 +0.07h] XONG  setA-17 step6 s1 [restricted] Optimal obj=0.42419 gap=0.0000 nodes=1 cpu=36s rss=1.4GB
+[10-20 18:48:50 +0.07h] CHẠY  setA-16 step6 s1 [restricted K=6] ước lượng 4.3 GB (đang chạy 2, RAM dùng 2.6 GB)
+[10-20 18:49:38 +0.09h] XONG  setA-16 step6 s1 [restricted] Optimal obj=0.87295 gap=0.0000 nodes=1 cpu=19s rss=1.4GB
+[10-20 18:49:38 +0.09h] CHẠY  setA-14 step6 s1 [restricted K=21] ước lượng 5.9 GB (đang chạy 2, RAM dùng 2.6 GB)
+[10-20 18:50:49 +0.1h] XONG  setA-14 step6 s1 [restricted] Optimal obj=0.43967 gap=0.0000 nodes=1 cpu=40s rss=1.8GB
+[10-20 18:50:49 +0.1h] CHẠY  setA-13 step6 s1 [restricted K=11] ước lượng 6.2 GB (đang chạy 2, RAM dùng 2.6 GB)
+[10-20 18:52:17 +0.13h] XONG  setA-13 step6 s1 [restricted] Optimal obj=0.61966 gap=0.0000 nodes=1 cpu=59s rss=1.7GB
+[10-20 18:52:17 +0.13h] CHẠY  setA-12 step6 s1 [restricted K=26] ước lượng 2.8 GB (đang chạy 2, RAM dùng 2.6 GB)
+[10-20 18:52:17 +0.13h] CHẠY  setA-07 step6 s1 [restricted K=11] ước lượng 2.8 GB (đang chạy 3, RAM dùng 2.6 GB)
+[10-20 18:52:43 +0.14h] XONG  setA-07 step6 s1 [restricted] Optimal obj=0.90799 gap=0.0000 nodes=1 cpu=3s rss=0.7GB
+[10-20 18:52:57 +0.14h] XONG  setA-12 step6 s1 [restricted] Optimal obj=1.00011 gap=0.0000 nodes=1 cpu=11s rss=1.1GB
+[10-20 18:52:57 +0.14h] CHẠY  setA-11 step6 s1 [restricted K=26] ước lượng 3.9 GB (đang chạy 2, RAM dùng 2.6 GB)
+[10-20 18:55:39 +0.19h] XONG  setA-11 step6 s1 [restricted] Optimal obj=0.64460 gap=0.0000 nodes=203 cpu=131s rss=1.8GB
+[10-20 18:55:39 +0.19h] CHẠY  setA-06 step6 s1 [restricted K=23] ước lượng 6.5 GB (đang chạy 2, RAM dùng 2.6 GB)
+[10-20 18:59:50 +0.26h] trạng thái: 2 đang chạy, 2 chờ, RAM ước lượng 13.0 GB, RAM dùng 3.5 GB
+[10-20 19:14:51 +0.51h] trạng thái: 2 đang chạy, 2 chờ, RAM ước lượng 13.0 GB, RAM dùng 3.6 GB
+[10-20 19:26:10 +0.69h] XONG  setA-06 step6 s1 [restricted] Not Optimal obj=1.00000 gap=1.0000 nodes=0 cpu=1800s rss=1.0GB
+[10-20 19:29:52 +0.76h] trạng thái: 1 đang chạy, 2 chờ, RAM ước lượng 6.5 GB, RAM dùng 2.6 GB
+[10-20 19:44:54 +1.01h] trạng thái: 1 đang chạy, 2 chờ, RAM ước lượng 6.5 GB, RAM dùng 2.7 GB
+[10-20 19:45:36 +1.02h] XONG  setA-06 step9 s1 [restricted] Not Optimal obj=1.00000 gap=1.0000 nodes=0 cpu=3599s rss=2.4GB
+[10-20 19:45:36 +1.02h] CHẠY  setA-20 step6 s1 [restricted K=6] ước lượng 7.8 GB (đang chạy 1, RAM dùng 0.2 GB)
+[10-20 19:46:20 +1.03h] XONG  setA-20 step6 s1 [restricted] Optimal obj=0.99131 gap=0.0000 nodes=1 cpu=13s rss=1.4GB
+[10-20 19:46:20 +1.03h] CHẠY  setA-10 step6 s1 [restricted K=16] ước lượng 6.9 GB (đang chạy 1, RAM dùng 1.2 GB)
+[10-20 19:50:49 +1.1h] XONG  setA-10 step6 s1 [restricted] Optimal obj=0.42391 gap=0.0000 nodes=1 cpu=239s rss=2.0GB
+[10-20 19:50:51 +1.11h] tất cả job đã xong — tổng hợp kết quả
+[10-20 19:50:56 +1.11h] HOÀN TẤT

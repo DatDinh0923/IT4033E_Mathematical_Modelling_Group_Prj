@@ -1,0 +1,42 @@
+{
+    "n": 400,
+    "nodes": 1,
+    "wall_time": 62.627818765,
+    "ncons": 489618,
+    "improvement": 0.008686953803534458,
+    "demands_in_model": 6000,
+    "best_bound": 0.991312385321101,
+    "waypoints": 9906,
+    "maxseg": 6,
+    "time_limit": 3600,
+    "has_sol": true,
+    "K": 6,
+    "time_data": 3.527194816,
+    "best_obj": 0.991312385321101,
+    "mode": "restricted",
+    "maxrss_gb": 7.102405548095703,
+    "status": "Optimal",
+    "instance": "setA-20",
+    "arcs": 2000,
+    "nvars": 893911,
+    "gap": 0,
+    "cpu_time": 62.413923000000004,
+    "budget": 90,
+    "demands": 6000,
+    "baseline_mlu": 0.9999993333333329,
+    "step": 9,
+    "mlu_per_period": [
+        0.991312385321101,
+        0.8615106666666668
+    ],
+    "mlu_check": 0.991312385321101,
+    "time_build": 27.866084044,
+    "changes": [
+        28
+    ],
+    "termination": "OPTIMAL",
+    "seed": 1,
+    "lp_solver": "simplex",
+    "warm_obj": 0.9999993333333329,
+    "warm_cpu_time": 0.0
+}

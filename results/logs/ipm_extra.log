@@ -1,0 +1,8 @@
+Running as unit: orange-ipm-setA-08-6.scope; invocation ID: 39731e6b843040dbba176708e3836d75
+Running as unit: orange-ipm-setA-06-6.scope; invocation ID: 616c5d7e90ba47c29ec217fca9acfd36
+setA-08 step6 seed1 restricted: Optimal obj=0.318904 bound=0.318904 gap=0.0000 nodes=1 cpu=172.3s base=1.0000 rss=1.7GB
+setA-06 step6 seed1 restricted: Not Optimal obj=1.000000 bound=0.130282 gap=0.8697 nodes=0 cpu=1798.9s base=1.0000 rss=1.5GB
+Running as unit: orange-ipm-setA-08-9.scope; invocation ID: 91e2b3a1a08346b4b6e1e5d8c582c73c
+Running as unit: orange-ipm-setA-06-9.scope; invocation ID: dac81813719741b7886cd5af125fbb94
+setA-06 step9 seed1 restricted: Not Optimal obj=1.000000 bound=0.253521 gap=0.7465 nodes=0 cpu=3600.0s base=1.0000 rss=5.9GB
+setA-08 step9 seed1 restricted: Not Optimal obj=1.000000 bound=0.318904 gap=0.6811 nodes=0 cpu=3770.2s base=1.0000 rss=4.5GB

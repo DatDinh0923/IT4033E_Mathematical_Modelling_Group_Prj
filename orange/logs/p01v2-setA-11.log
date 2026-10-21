@@ -1,0 +1,72 @@
+
+[549991] signal 15: Terminated
+in expression starting at /run/media/raven/data-volume/math-model/orange/run_experiments.jl:32
+unknown function (ip: 0x70958bcac800) at /usr/lib/x86_64-linux-gnu/libc.so.6
+unknown function (ip: 0x70958bca030b) at /usr/lib/x86_64-linux-gnu/libc.so.6
+unknown function (ip: 0x70958bca06e6) at /usr/lib/x86_64-linux-gnu/libc.so.6
+pthread_cond_wait at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv_cond_wait at /workspace/srcdir/libuv/src/unix/thread.c:822
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:614
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+profile_printing_listener at ./Base.jl:335
+#start_profile_listener##0 at ./Base.jl:355
+jfptr_YY.start_profile_listenerYY.YY.0_16994.1 at /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+start_task at /cache/build/builder-amdci4-4/julialang/julia-ci/src/task.c:1287
+unknown function (ip: (nil)) at (unknown file)
+gc_sweep_page at /cache/build/builder-amdci4-4/julialang/julia-ci/src/gc-stock.c:926
+gc_sweep_pool_page at /cache/build/builder-amdci4-4/julialang/julia-ci/src/gc-stock.c:1002 [inlined]
+gc_sweep_pool_parallel at /cache/build/builder-amdci4-4/julialang/julia-ci/src/gc-stock.c:1294
+gc_sweep_pool at /cache/build/builder-amdci4-4/julialang/julia-ci/src/gc-stock.c:1399 [inlined]
+_jl_gc_collect at /cache/build/builder-amdci4-4/julialang/julia-ci/src/gc-stock.c:3255
+ijl_gc_collect at /cache/build/builder-amdci4-4/julialang/julia-ci/src/gc-stock.c:3563
+maybe_collect at /cache/build/builder-amdci4-4/julialang/julia-ci/src/gc-stock.c:355 [inlined]
+jl_gc_small_alloc_inner at /cache/build/builder-amdci4-4/julialang/julia-ci/src/gc-stock.c:734 [inlined]
+jl_gc_small_alloc_noinline at /cache/build/builder-amdci4-4/julialang/julia-ci/src/gc-stock.c:792 [inlined]
+jl_gc_alloc_ at /cache/build/builder-amdci4-4/julialang/julia-ci/src/gc-stock.c:806
+ijl_alloc_string at /cache/build/builder-amdci4-4/julialang/julia-ci/src/array.c:300
+_string_n at ./strings/string.jl:136 [inlined]
+StringMemory at ./iobuffer.jl:167 [inlined]
+dec at ./intfuncs.jl:976
+#string#397 at ./intfuncs.jl:1067
+string at ./intfuncs.jl:1057 [inlined]
+macro expansion at /home/raven/.julia/packages/JuMP/insRt/src/macros/@variable.jl:337 [inlined]
+#51 at /home/raven/.julia/packages/JuMP/insRt/src/Containers/macro.jl:604
+#container##4 at /home/raven/.julia/packages/JuMP/insRt/src/Containers/container.jl:136 [inlined]
+iterate at ./generator.jl:48 [inlined]
+collect_to! at ./array.jl:886 [inlined]
+collect_to_with_first! at ./array.jl:864 [inlined]
+collect at ./array.jl:838
+map at ./abstractarray.jl:3426 [inlined]
+container at /home/raven/.julia/packages/JuMP/insRt/src/Containers/container.jl:135
+container at /home/raven/.julia/packages/JuMP/insRt/src/Containers/container.jl:75 [inlined]
+macro expansion at /home/raven/.julia/packages/JuMP/insRt/src/macros.jl:425 [inlined]
+#build_model#27 at /run/media/raven/data-volume/math-model/orange/src/model.jl:47
+build_model at /run/media/raven/data-volume/math-model/orange/src/model.jl:26
+unknown function (ip: 0x709572549ce4) at (unknown file)
+macro expansion at ./timing.jl:463 [inlined]
+top-level scope at /run/media/raven/data-volume/math-model/orange/run_experiments.jl:36
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:731
+jl_eval_toplevel_stmts at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:585
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:683
+ijl_toplevel_eval at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:754
+ijl_toplevel_eval_in at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:799
+eval at ./boot.jl:489
+include_string at ./loading.jl:3045
+_include at ./loading.jl:3105
+include at ./Base.jl:309
+exec_options at ./client.jl:344
+_start at ./client.jl:577
+jfptr__start_60477.1 at /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+true_main at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:985
+jl_repl_entrypoint at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:1152
+main at /cache/build/builder-amdci4-4/julialang/julia-ci/cli/loader_exe.c:58
+unknown function (ip: 0x70958bc2a600) at /usr/lib/x86_64-linux-gnu/libc.so.6
+__libc_start_main at /usr/lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+unknown function (ip: 0x4010b8) at /workspace/srcdir/glibc-2.17/csu/../sysdeps/x86_64/start.S
+unknown function (ip: (nil)) at (unknown file)
+Allocations: 454915102 (Pool: 454914855; Big: 247); GC: 38

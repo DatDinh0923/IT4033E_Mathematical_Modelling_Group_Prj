@@ -1,3 +1,8 @@
 2026-10-21 03:17:32 killed pid 135960 at 26 GB: 135960 28129456 /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/bin/julia --project=. run_experiments.jl p0 1800 1 setA-10
 2026-10-21 03:27:29 killed pid 142292 at 26 GB: 142292 27295736 /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/bin/julia --project=. run_experiments.jl p0 1800 1 setA-11
 2026-10-21 03:37:27 killed pid 146558 at 27 GB: 146558 28466324 /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/bin/julia --project=. run_experiments.jl p0 1800 1 setA-12
+2026-10-21 18:30:46 killed pid 542992 at 26 GB: 542992 27804180 /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/bin/julia --project=. run_experiments.jl p01 3600 1 setA-06
+2026-10-21 18:43:29 killed pid 546475 at 27 GB: 546475 29045332 /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/bin/julia --project=. run_experiments.jl p01 3600 1 setA-07
+2026-10-21 18:50:21 killed pid 548542 at 27 GB: 548542 28759308 /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/bin/julia --project=. run_experiments.jl p01 3600 1 setA-08
+2026-10-21 18:57:13 killed pid 549180 at 26 GB: 549180 27902924 /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/bin/julia --project=. run_experiments.jl p01 3600 1 setA-09
+2026-10-21 19:01:14 killed pid 549617 at 27 GB: 549617 28514648 /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/bin/julia --project=. run_experiments.jl p01 3600 1 setA-10

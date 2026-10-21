@@ -1,0 +1,7 @@
+instance,model,mip_lp_solver,seed,exit_code,wall_s,mem_max,date
+setA-04,t01,ipm,0,143,4062,6G,2026-10-20T23:02:08+07:00
+setA-05,t01,ipm presolve=off,0,137,1903,26G,2026-10-21T03:01:39+07:00
+setA-06,t01,ipm presolve=off,0,137,344,26G,2026-10-21T05:15:27+07:00
+setA-08,t01,ipm presolve=off,0,137,311,26G,2026-10-21T05:20:38+07:00
+setA-09,t01,ipm presolve=off,0,137,303,26G,2026-10-21T05:25:41+07:00
+setA-07,t01,ipm presolve=off,0,137,401,26G,2026-10-21T05:32:22+07:00

@@ -1,0 +1,64 @@
+[toy] data 0.55 s, build 0.83 s, 84 binary variables
+[setA-08] data 0.04 s, build 2.38 s, 4470000 binary variables
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+MIP has 53204 rows; 4492351 cols; 18018804 nonzeros; 4470000 integer variables (4470000 binary)
+Coefficient ranges:
+  Matrix  [3e-02, 2e+03]
+  Cost    [1e+00, 1e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 6e+00]
+Assessing feasibility of MIP using primal feasibility and integrality tolerance of       1e-06
+Solution has               num          max          sum
+Col     infeasibilities      0            0            0
+Integer infeasibilities      0            0            0
+Row     infeasibilities      0            0            0
+Row     residuals            0            0            0
+Presolving model
+53204 rows, 4492351 cols, 18018804 nonzeros 4s
+52550 rows, 4491697 cols, 17987696 nonzeros 274s
+Presolve reductions: rows 52550(-654); columns 4491697(-654); nonzeros 17987696(-31108) 
+
+MIP start solution is feasible, objective value is 1
+
+Solving MIP model with:
+   52550 rows
+   4491697 cols (4470000 binary, 0 integer, 0 implied int., 21697 continuous, 0 domain fixed)
+   17987696 nonzeros
+   Thread count 4 (of 8 threads). Using 1 max workers. Parallel search off
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   0               1                100.00%        0      0      0         0   297.8s
+         0       0         0   0.00%   0               1                100.00%        0      0      3     64194  1800.2s
+
+Solving report
+  Status            Time limit reached
+  Primal bound      1
+  Dual bound        0
+  Gap               100% (tolerance: 0.01%)
+  P-D integral      1502.38104534
+  Solution status   feasible
+                    1 (objective)
+                    0 (bound viol.)
+                    0 (int. viol.)
+                    0 (row viol.)
+  Timing            1800.20
+                    275.66 (Presolve)
+                    1524.41 (Solve)
+                    0.00 (Postsolve)
+  Max sub-MIP depth 0
+  Nodes             0
+  Repair LPs        0
+  LP iterations     64194
+                    0 (strong br.)
+                    0 (separation)
+                    0 (heuristics)
+[setA-08] Not Optimal  MLU = 1.0  (no waypoints: 1.0)  gap = 1.0  optimize! = 1887.86 s  nodes = 0  check = 1.0

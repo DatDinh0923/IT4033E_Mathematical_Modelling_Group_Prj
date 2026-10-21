@@ -1,0 +1,82 @@
+[toy] data 0.77 s, build 0.87 s, 168 binary variables
+[setA-01] data 0.01 s, build 0.09 s, 30400 binary variables
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+MIP has 17800 rows; 46361 cols; 215223 nonzeros; 30400 integer variables (30400 binary)
+Coefficient ranges:
+  Matrix  [5e-01, 1e+03]
+  Cost    [1e+00, 1e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 5e+01]
+Assessing feasibility of MIP using primal feasibility and integrality tolerance of       1e-06
+Solution has               num          max          sum
+Col     infeasibilities      0            0            0
+Integer infeasibilities      0            0            0
+Row     infeasibilities      0            0            0
+Row     residuals            0            0            0
+Presolving model
+17777 rows, 46361 cols, 215200 nonzeros 0s
+17641 rows, 46225 cols, 211163 nonzeros 11s
+Presolve reductions: rows 17641(-159); columns 46225(-136); nonzeros 211163(-4060) 
+
+MIP start solution is feasible, objective value is 1.00000068611
+
+Solving MIP model with:
+   17641 rows
+   46225 cols (30400 binary, 0 integer, 0 implied int., 15825 continuous, 0 domain fixed)
+   211163 nonzeros
+   Thread count 4 (of 8 threads). Using 1 max workers. Parallel search off
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   0               1.000000686      100.00%        0      0      0         0    11.8s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%        0      0      1      9853    15.7s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%       93     20      1     21638    23.0s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%      215     53      1     40447    36.6s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%      313     71     22     51960    45.5s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%      408     82     22     62315    53.3s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%      469     91     22     71258    60.4s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%      561    101     22     78782    67.0s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%      661    109     22     87318    74.1s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%      688    115     22     93920    79.3s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%      786    101     22    101289    85.1s
+         0       0         0   0.00%   0.9293838998    1.000000686        7.06%      844    108     22    111102    93.1s
+ L       0       0         0   0.00%   0.9293838998    0.9293838998       0.00%      872    111     22    113117   106.9s
+         1       0         1 100.00%   0.9293838998    0.9293838998       0.00%      872    111     22    121460   107.1s
+
+Solving report
+  Status            Optimal
+  Primal bound      0.929383899821
+  Dual bound        0.929383899821
+  Gap               0% (tolerance: 0.01%)
+  P-D integral      10.3164947476
+  Solution status   feasible
+                    0.929383899821 (objective)
+                    0 (bound viol.)
+                    0 (int. viol.)
+                    0 (row viol.)
+  Timing            107.14
+                    18.67 (Presolve)
+                        MIP    time [calls] = 11.62 [1]
+                        subMIP time [calls] = 7.05 [2]
+                    88.47 (Solve)
+                        MIP    time [calls] = 83.99 [1]
+                        subMIP time [calls] = 4.48 [2]
+                    0.00 (Postsolve)
+                        MIP    time [calls] = 0.00 [1]
+                        subMIP time [calls] = 0.00 [2]
+  Max sub-MIP depth 4
+  Nodes             1
+  Repair LPs        0
+  LP iterations     121460
+                    0 (strong br.)
+                    103264 (separation)
+                    8343 (heuristics)
+[setA-01] Optimal  MLU = 0.929383899821109  (no waypoints: 1.0000006861063466)  gap = 0.0  optimize! = 107.68 s  nodes = 1  seed = 5  lp = choose

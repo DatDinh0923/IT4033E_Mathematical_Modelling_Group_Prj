@@ -1,0 +1,95 @@
+[toy] data 0.77 s, build 0.88 s, 168 binary variables
+[setA-04] data 0.01 s, build 1.38 s, 980000 binary variables
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+MIP has 515800 rows; 1474901 cols; 6860420 nonzeros; 980000 integer variables (980000 binary)
+Coefficient ranges:
+  Matrix  [2e-01, 1e+03]
+  Cost    [1e+00, 1e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 4e+01]
+Assessing feasibility of MIP using primal feasibility and integrality tolerance of       1e-06
+Solution has               num          max          sum
+Col     infeasibilities      0            0            0
+Integer infeasibilities      0            0            0
+Row     infeasibilities      0            0            0
+Row     residuals            0            0            0
+Presolving model
+515726 rows, 1474901 cols, 6860346 nonzeros 1s
+
+[925191] signal 15: Terminated
+in expression starting at /home/insomnia/1Code_Workspace/SOICT_mathematical_modelling_proj/project/orange/run.jl:180
+unknown function (ip: 0x7d181aa98e4f) at /lib/x86_64-linux-gnu/libc.so.6
+pthread_cond_wait at /lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv_cond_wait at /workspace/srcdir/libuv/src/unix/thread.c:822
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:614
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+profile_printing_listener at ./Base.jl:335
+#start_profile_listener##0 at ./Base.jl:355
+jfptr_YY.start_profile_listenerYY.YY.0_16994.1 at /home/insomnia/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+start_task at /cache/build/builder-amdci4-4/julialang/julia-ci/src/task.c:1287
+unknown function (ip: (nil)) at (unknown file)
+_ZNK8presolve9HPresolve15getRowPositionsEiRSt6vectorIiSaIiEE at /home/insomnia/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8presolve9HPresolve16dominatedColumnsERNS_19HighsPostsolveStackE at /home/insomnia/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8presolve9HPresolve8presolveERNS_19HighsPostsolveStackE at /home/insomnia/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8presolve9HPresolve3runERNS_19HighsPostsolveStackE at /home/insomnia/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN18HighsMipSolverData14runMipPresolveEi at /home/insomnia/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN14HighsMipSolver3runEv at /home/insomnia/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs12callSolveMipEv at /home/insomnia/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs19calledOptimizeModelEv at /home/insomnia/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs13optimizeModelEv at /home/insomnia/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs3runEv at /home/insomnia/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+Highs_run at /home/insomnia/.julia/packages/HiGHS/FDUra/src/gen/libhighs.jl:344 [inlined]
+_gc_safe_Highs_run at /home/insomnia/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2279
+_Highs_run_workaround_issue_316 at /home/insomnia/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2303 [inlined]
+#44 at /home/insomnia/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2341 [inlined]
+disable_sigint at ./c.jl:167
+optimize! at /home/insomnia/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2341
+optimize! at /home/insomnia/.julia/packages/MathOptInterface/lY2WB/src/Bridges/bridge_optimizer.jl:367 [inlined]
+optimize! at /home/insomnia/.julia/packages/MathOptInterface/lY2WB/src/MathOptInterface.jl:122 [inlined]
+optimize! at /home/insomnia/.julia/packages/MathOptInterface/lY2WB/src/Utilities/cachingoptimizer.jl:370
+unknown function (ip: 0x7d17fc181ca2) at (unknown file)
+#optimize!#96 at /home/insomnia/.julia/packages/JuMP/insRt/src/optimizer_interface.jl:633
+optimize! at /home/insomnia/.julia/packages/JuMP/insRt/src/optimizer_interface.jl:569 [inlined]
+macro expansion at ./timing.jl:463 [inlined]
+#solve_model!#45 at /home/insomnia/1Code_Workspace/SOICT_mathematical_modelling_proj/project/orange/src/model_t0.jl:156
+solve_model! at /home/insomnia/1Code_Workspace/SOICT_mathematical_modelling_proj/project/orange/src/model_t0.jl:152 [inlined]
+#solve_t01!#84 at /home/insomnia/1Code_Workspace/SOICT_mathematical_modelling_proj/project/orange/src/model_t01.jl:78 [inlined]
+solve_t01! at /home/insomnia/1Code_Workspace/SOICT_mathematical_modelling_proj/project/orange/src/model_t01.jl:78
+unknown function (ip: 0x7d17fc17cf96) at (unknown file)
+#run_instance_t01#4 at /home/insomnia/1Code_Workspace/SOICT_mathematical_modelling_proj/project/orange/run.jl:141
+run_instance_t01 at /home/insomnia/1Code_Workspace/SOICT_mathematical_modelling_proj/project/orange/run.jl:129
+main at /home/insomnia/1Code_Workspace/SOICT_mathematical_modelling_proj/project/orange/run.jl:171
+unknown function (ip: 0x7d17fc125702) at (unknown file)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+do_call at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:123
+eval_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:243
+eval_stmt_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:194 [inlined]
+eval_body at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:679
+jl_interpret_toplevel_thunk at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:884
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:742
+jl_eval_toplevel_stmts at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:585
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:683
+ijl_toplevel_eval at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:754
+ijl_toplevel_eval_in at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:799
+eval at ./boot.jl:489
+include_string at ./loading.jl:3045
+_include at ./loading.jl:3105
+include at ./Base.jl:309
+exec_options at ./client.jl:344
+_start at ./client.jl:577
+jfptr__start_60477.1 at /home/insomnia/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+true_main at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:985
+jl_repl_entrypoint at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:1152
+main at /cache/build/builder-amdci4-4/julialang/julia-ci/cli/loader_exe.c:58
+unknown function (ip: 0x7d181aa2a1c9) at /lib/x86_64-linux-gnu/libc.so.6
+__libc_start_main at /lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+unknown function (ip: 0x4010b8) at /workspace/srcdir/glibc-2.17/csu/../sysdeps/x86_64/start.S
+unknown function (ip: (nil)) at (unknown file)
+Allocations: 113773554 (Pool: 113773126; Big: 428); GC: 53

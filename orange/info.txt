@@ -1,0 +1,19 @@
+Runs stopped by hand setA-05 p01: killed after 4h32 CPU (limit 3600 s), 7.2 GB RAM, 1 core at 100%, no result.
+
+
+setA-05 and 06 p01 first attempts killed (slow budget-constraint build, fixed in model.jl), rerun with the fix.
+
+
+1.log, 2.log and 3.log are what done before running test
+
+p01 rerun on all 12 with HiGHS presolve off (presolve ignored the time limit and ran for hours on setA-04/05). The old presolve-on results are in p01-pathcount-presolve-on.csv.
+
+setA-13 to 20: Step 6 only (killed by watchdog for memory); Step 9 not run, since Step 6 already exceeds memory.
+
+setA-13 to 20 not run (model too large; see sizes)
+
+p01 setA-06 to 09 killed by the watchdog (26–27 GB, see watchdog.log); setA-10 to 12 p01 not run, since p0 already exceeded memory.
+
+Step 9 joint model: presolve-on runs used for 01–03. Two-stage (two_stage.jl) run for 01–09 with a 3600 s limit.
+
+

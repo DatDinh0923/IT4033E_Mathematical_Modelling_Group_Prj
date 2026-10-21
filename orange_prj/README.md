@@ -15,7 +15,7 @@
 
 ```bash
 curl -fsSL https://install.julialang.org | sh      # Julia (juliaup)
-cd project/orange
+cd orange_prj
 julia --project=. -e 'using Pkg; Pkg.instantiate()'
 ```
 

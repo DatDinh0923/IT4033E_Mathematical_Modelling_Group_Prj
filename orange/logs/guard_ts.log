@@ -1,0 +1,2 @@
+2026-10-21 19:32:00 killed pid 552062 after 12 min at 27 GB: /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/bin/julia --project=. two_stage.jl 3600 1 setA-07
+2026-10-21 21:21:14 killed pid 553318 after 100 min at 16 GB: /home/raven/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/bin/julia --project=. two_stage.jl 3600 1 setA-09

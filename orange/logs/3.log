@@ -1,0 +1,9 @@
+orange julia --project=. run_experiments.jl p0 120 1 setA-01
+setA-01,1,20,80,40,6,,15201,908,1.57,2.00,Optimal,0.929384,0.929384,0.000000,1,4.08,0.929384,-1,760
+➜  orange julia --project=. summarize.jl results/p0-pathcount.csv
+| Instance | Vertices | Links | Demands | Runs | Objective (MLU) | CPU (s) | Status | Gap | B&B nodes |
+|---|---|---|---|---|---|---|---|---|---|
+| setA-01 | 20 | 80 | 40 | 1 | 0.9294 | 4.1 | Optimal | – | 1 |
+
+% LaTeX rows: Instance & Vertices & Links & Demands & Obj & CPU & Status & Gap & Nodes
+setA-01 & 20 & 80 & 40 & 0.9294 & 4.1 & Optimal & – & 1 \\

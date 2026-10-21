@@ -1,0 +1,9 @@
+orange julia --project=. test_toy.jl
+[ecmp] r(v0,v5,a35,0) = 0.75
+[ecmp] MLU without waypoints t=0: 0.4375
+[ecmp] periods [0]: Optimal, MLU = 0.375
+[ecmp] periods [0, 1]: Optimal, MLU = 0.375
+[pathcount] r(v0,v5,a35,0) = 0.6667
+[pathcount] MLU without waypoints t=0: 0.41666666666666663
+[pathcount] periods [0]: Optimal, MLU = 0.375
+[pathcount] periods [0, 1]: Optimal, MLU = 0.375
